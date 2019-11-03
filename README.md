@@ -1,7 +1,7 @@
 # Collaboration And Competition Project - DRLND
 
 ## The Environment
-This project solves Unity's multi-agent [Tennis](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Learning-Environment-Examples.md#tennis) environment using the [Deep Deterministic Policy Gradient (DDPG)](https://arxiv.org/abs/1509.02971) algorithm.
+This project solves Unity's multi-agent [Tennis](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Learning-Environment-Examples.md#tennis) environment using a modified version of the [Deep Deterministic Policy Gradient (DDPG)](https://arxiv.org/abs/1509.02971) algorithm.
 
 <p align="center">
 <img src="https://video.udacity-data.com/topher/2018/May/5af7955a_tennis/tennis.png" alt="Unity ML-Agents Tennis Environment">
@@ -34,8 +34,8 @@ Download a customized Unity Environment from one of the links below. You need on
 
 - Linux: [Click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P3/Tennis/Tennis_Linux.zip)
 - Mac OSX: [Click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P3/Tennis/Tennis.app.zip)
-- Windows (32-bit): [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P3/Tennis/Tennis_Windows_x86.zip)
-- Windows (64-bit): [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P3/Tennis/Tennis_Windows_x86_64.zip)
+- Windows (32-bit): [Click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P3/Tennis/Tennis_Windows_x86.zip)
+- Windows (64-bit): [Click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P3/Tennis/Tennis_Windows_x86_64.zip)
 
 Then, place the file in the main folder in the `P3-Collaboration-Competition-DRLND` GitHub repository, and unzip (or decompress) the file.
 
